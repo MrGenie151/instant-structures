@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#F#",
+        "#F#",
+        "iii"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:chest"
+        },
+        "F": {
+            "item": "minecraft:furnace"
+        },
+        "i": {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}

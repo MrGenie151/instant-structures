@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "Unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "inststruct:simple_smelter"
+            }
+        }
+    },
+    "rewards": {
+        "function": "inststruct:crafting/simple_smelter"
+    }
+}
