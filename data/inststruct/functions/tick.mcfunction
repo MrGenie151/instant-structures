@@ -1,0 +1,1 @@
+execute as @e[name="IronFarm"] at @s run function inststruct:structures/ironfarm

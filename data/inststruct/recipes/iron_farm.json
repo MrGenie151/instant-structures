@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "SiS",
+        "SRS"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:emerald"
+        },
+        "S": {
+            "item": "minecraft:stone"
+        },
+        "i": {
+            "item": "minecraft:iron_ingot"
+        },
+        "R": {
+            "item": "minecraft:rotten_flesh"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}
